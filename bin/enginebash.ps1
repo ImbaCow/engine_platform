@@ -1,0 +1,1 @@
+& "$PSScriptRoot\enginecompose.ps1" exec engine_app powershell
